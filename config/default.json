@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://tyler123:tyler123@cluster0-bumot.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "TheBigRedTruckPipedTheThiccAmbulance"
+  "jwtSecret": "TheBigRedTruckPipedTheThiccAmbulance",
+  "githubClientId": "e264e252264a34e03827",
+  "githubSecret": "01c84f5eb8dd525c124b51293d424b50aa776c89"
 }
