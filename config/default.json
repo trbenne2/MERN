@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://tyler123:tyler123@cluster0-bumot.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "TheBigRedTruckPipedTheThiccAmbulance"
+}
